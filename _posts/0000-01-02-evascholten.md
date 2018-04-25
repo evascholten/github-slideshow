@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Yay](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Use the left arrow to go back!
